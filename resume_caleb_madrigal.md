@@ -44,10 +44,17 @@
 * *Technologies:* C# .NET, ASP MVC4 .NET, Spring, NHibernate, MS SQL, Objective-C
 * Wrote Medical scheduling web app
 * Wrote Medical scheduling iPad app
+* Helped maintain large enterprise API and web app.
+
+##### Client: SoZo Group, Wipfli (Joint Venture)
+
+* *Technologies:* Joomla CMS, PHP, Linux, Javascript, CSS
+* Created web informational portal to provide help to Chinese companies looking to move operations to the US
+* Website: https://chinausportal.com/index.php/en/
 
 ##### Client: ScenarioNow, 2011-2012
 
-* *Technologies:* Java EE, Google Web Toolkit, MySQL
+* *Technologies:* Java EE, Google Web Toolkit, MySQL, Linux
 * Wrote financial modeling software for financial advisors
 
 ##### Client: CMIC, 2011
