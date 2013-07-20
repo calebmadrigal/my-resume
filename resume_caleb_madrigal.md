@@ -2,9 +2,9 @@
 
 ## Software Engineer
 
-* [http://calebmadrigal.com](http://calebmadrigal.com)
-* [https://github.com/calebmadrigal](https://github.com/calebmadrigal)
-* [caleb.madrigal@gmail.com](mailto:caleb.madrigal@gmail.com)
+* <http://calebmadrigal.com>
+* <https://github.com/calebmadrigal>
+* <caleb.madrigal@gmail.com>
 * 414-215-0003
 
 ## Skills
