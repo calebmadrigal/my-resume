@@ -10,12 +10,12 @@
 ## Skills
 
 * Languages/Platforms/Technologies:
-    - Hardcore Pythonista (Django, Flask, numpy, scipy, ipython)
-    - Objective-C (iOS)
+    - Hardcore Pythonista (Django, Flask, numpy, scipy, ipython, matplotlib)
+    - Objective-C (iOS, Cocoa)
     - C# .NET (ASP.NET, MVC4, NHibernate Spring)
-    - Java EE (Hibernate, Spring)
+    - Java EE (JSF, Spring, Hibernate)
     - Javascript (AngularJS, jQuery, UnderscoreJS, KnockoutJS, REST)
-    - C programming (gcc, sockets, linux, makefiles)
+    - C (gcc, sockets, linux, makefile)
 * Databases:
     - MySQL
     - MS SQL
@@ -24,9 +24,10 @@
 * Version Control:
     - Git
     - SVN
-* Methodology: Agile/Scrum
 * Very strong communicator (speaker and blogger)
+* Very strong linux user (have setup linux VPS as secure servers)
 * Good understanding of Cryptography and Security
+* Preferred development methodology: Agile/Scrum
 
 ---
 
