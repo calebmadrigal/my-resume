@@ -110,9 +110,9 @@
 
 ## Education
 
-### Bachlor's in Computer Sciense - Western Kentucky University, May 2008
+### Bachlor's in Computer Sciense - Western Kentucky University
 
-* GPA: 3.80 (on a 4.0 scale)
+* GPA: 3.80 on a 4.0 scale (Graduated May 2008)
 * ACM President of WKU local chapter (2007-2008)
 * Future Leader Award in Computer Science (2008)
 * President's Scholar at WKU (2007-2008)
