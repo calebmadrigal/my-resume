@@ -12,3 +12,4 @@ Conversion commands:
 * `pandoc -f markdown --smart -o resume_caleb_madrigal.doc resume_caleb_madrigal.md` 
 * `pandoc -f markdown --smart -o resume_caleb_madrigal.docx resume_caleb_madrigal.md` 
 
+Note: The doc and docx formats aren't very pretty right now.
