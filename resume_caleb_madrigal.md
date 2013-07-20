@@ -61,7 +61,7 @@
 
 * Wrote software in the C programming language for the Airbus A400M Network Server System (NSS).
 * Developed several APIs based on requirements which I gathered from multiple teams.
-* Developed company-­‐wide Python coding standard and gave training presentations on Python.
+* Developed company-wide Python coding standard and gave training presentations on Python.
 * Wrote a hardware emulator in Python for use in our labs.
 * Addressed customer questions about our software and documentation.
 * Wrote Software design documents which used UML diagrams to communicate software module design and interactions.
@@ -107,6 +107,5 @@
 * ACM President of WKU local chapter (2007-2008)
 * Future Leader Award in Computer Science (2008)
 * President's Scholar at WKU (2007-2008)
-
 
 
