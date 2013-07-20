@@ -19,6 +19,9 @@
     - MS SQL
     - IBM DB2
     - Sqlite
+* Version Control
+    - Git
+    - SVN
 * Methodology: Agile/Scrum
 * Very strong communicator (speaker and blogger)
 
