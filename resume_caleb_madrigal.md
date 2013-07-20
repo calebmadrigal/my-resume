@@ -7,31 +7,50 @@
 
 ## Skills
 
-* Languages/Platforms
-    - Hardcore Pythonista
+* Languages/Platforms/Technologies:
+    - Hardcore Pythonista (Django, Flask, numpy, scipy, ipython)
     - Objective-C (iOS)
     - C# .NET (ASP.NET, MVC4, NHibernate Spring)
     - Java EE (Hibernate, Spring)
-    - Javascript
-* Agile/Scrum
+    - Javascript (AngularJS, jQuery, UnderscoreJS, KnockoutJS, REST)
+    - C programming (gcc, sockets, linux, makefiles)
+* Databases:
+    - MySQL
+    - MS SQL
+    - IBM DB2
+    - Sqlite
+* Methodology: Agile/Scrum
 * Very strong communicator (speaker and blogger)
-* Linux Infrastructure
 
 ## Experience
 
 ### SpiderLogic
-##### Software Consultant, *March 2011 - Present*
+#### Software Consultant, *March 2011 - Present*
 
-**Client: Wipfli (Internal Development)**
+##### Client: Wipfli (Internal Development), 2012
 
-**Client: MHD**
+* *Technologies:* Objective-C
+* Wrote insurance risk analysis iPad app
 
-**Client: ScenarioNow**
+##### Client: MHD, 2012-2013
 
-**Client: CMIC**
+* *Technologies:* C# .NET, ASP MVC4 .NET, Spring, NHibernate, MS SQL, Objective-C
+* Wrote Medical scheduling web app (in AngularJS)
+* Wrote Medical scheduling iPad app
+
+##### Client: ScenarioNow, 2011-2012
+
+* *Technologies:* Java EE, Google Web Toolkit, MySQL
+* Wrote financial modeling software for financial advisors
+
+##### Client: CMIC, 2011
+
+* *Technoligies:* Java EE, Spring, Hibernate, JSF, IBM DB2
+* Wrote Java EE application to manage actuarial statistics for Insurance Rating Software
+
 
 ### Astronautics Corporation of America (ACA)
-##### Software Engineer, *June 2008 - March 2011*
+#### Software Engineer, *June 2008 - March 2011*
 
 * Wrote software in the C programming language for the Airbus A400M Network Server System (NSS).
 * Developed several APIs based on requirements which I gathered from multiple teams.
@@ -49,7 +68,7 @@ work together.
 * Received an above average rating in an Employee Review (done by my supervisor) for both communication and productivity.
 
 ### Hitcents
-##### Software Engineer, *August 2006 - May 2008*
+#### Software Engineer, *August 2006 - May 2008*
 
 * Developing an Enterprise Resource Planning (ERP) system.
 * Desktop front-­‐end to ERP in C#/.NET 3.0/XAML/WPF.
@@ -60,18 +79,18 @@ work together.
 * Certified RFID specialist at Hitcents.
 
 ### Teksouth
-##### Programming Summer Intern, *May 2005 - August 2005*
+#### Programming Summer Intern, *May 2005 - August 2005*
 
 * Wrote a program that controlled the magnetic front door lock, using MS Outlook calendar as a front end for scheduling.
 
 ## Speaking
 
 ### O'Reilly Open Source Convention (OSCON) 2013
-##### Topic: Sound Analysis with the Fourier Transform and Python
+#### Topic: Sound Analysis with the Fourier Transform and Python
 * [Presentation Notes](https://github.com/calebmadrigal/FourierTalkOSCON)
 
 ### Milwaukee Barcamp 2011
-##### Topic: Transparent HTTP Proxies
+#### Topic: Transparent HTTP Proxies
 * [Code used](https://github.com/calebmadrigal/PythonScripts/blob/master/networking/httpproxyserver.py)
 
 
