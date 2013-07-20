@@ -26,6 +26,7 @@
     - SVN
 * Methodology: Agile/Scrum
 * Very strong communicator (speaker and blogger)
+* Good understanding of Cryptography and Security
 
 ---
 
@@ -50,7 +51,7 @@
 
 * *Technologies:* Joomla CMS, PHP, Linux, Javascript, CSS
 * Created web informational portal to provide help to Chinese companies looking to move operations to the US
-* Website: https://chinausportal.com/index.php/en/
+* Website: <https://chinausportal.com/index.php/en/>
 
 ##### Client: ScenarioNow, 2011-2012
 
