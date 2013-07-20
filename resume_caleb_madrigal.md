@@ -78,7 +78,7 @@ work together.
 #### Software Engineer, *August 2006 - May 2008*
 
 * Developing an Enterprise Resource Planning (ERP) system.
-* Desktop front-­‐end to ERP in C#/0/XAML/WPF.
+* Desktop front-­‐end to ERP in C# .NET/XAML/WPF
 * Integrated Microsoft Office with ERP system.
 * Wrote socket-­‐level communication system for both the server-­‐side and front-­‐end of ERP.
 * Wrote web software for ERP system using Perl, Javascript, CSS, and HTML.
