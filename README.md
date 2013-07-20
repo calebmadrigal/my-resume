@@ -1,6 +1,8 @@
 Resume
 ======
 
+[Markdown Version](https://github.com/calebmadrigal/Resume/blob/master/resume_caleb_madrigal.md)
+
 I use pandoc to convert from markdown to other formats.  Here's the setup procedure for Ubuntu:
 
 `sudo apt-get install pandoc texlive`
