@@ -56,7 +56,7 @@
 * Wrote Java EE application to manage actuarial statistics for Insurance Rating Software
 
 
-### Astronautics Corporation of America (ACA)
+### Astronautics Corporation of America
 #### Software Engineer, *June 2008 - March 2011*
 
 * Wrote software in the C programming language for the Airbus A400M Network Server System (NSS).
