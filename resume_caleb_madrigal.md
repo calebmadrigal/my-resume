@@ -1,6 +1,4 @@
-# Caleb Madrigal
-
-## Software Engineer
+# Caleb Madrigal - Software Engineer
 
 * <http://calebmadrigal.com>
 * <https://github.com/calebmadrigal>
@@ -24,7 +22,13 @@
 ### SpiderLogic
 ##### Software Consultant, *March 2011 - Present*
 
-* Did awesome stuff
+**Client: Wipfli (Internal Development)**
+
+**Client: MHD**
+
+**Client: ScenarioNow**
+
+**Client: CMIC**
 
 ### Astronautics Corporation of America (ACA)
 ##### Software Engineer, *June 2008 - March 2011*
@@ -63,11 +67,12 @@ work together.
 ## Speaking
 
 ### O'Reilly Open Source Convention (OSCON) 2013
-##### Talk: Sound Analysis with the Fourier Transform and Python
+##### Topic: Sound Analysis with the Fourier Transform and Python
 * [Presentation Notes](https://github.com/calebmadrigal/FourierTalkOSCON)
 
 ### Milwaukee Barcamp 2011
-##### Transparent HTTP Proxies
+##### Topic: Transparent HTTP Proxies
+* [Code used](https://github.com/calebmadrigal/PythonScripts/blob/master/networking/httpproxyserver.py)
 
 
 ## Education
