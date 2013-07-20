@@ -10,7 +10,7 @@
 ## Skills
 
 * Languages/Platforms/Technologies:
-    - Hardcore Pythonista (Django, Flask, numpy, scipy, ipython, matplotlib)
+    - Hardcore Pythonista (Django, Flask, numpy, scipy, ipython, matplotlib, Gunicorn)
     - Objective-C (iOS, Cocoa)
     - C# .NET (ASP.NET, MVC4, NHibernate Spring)
     - Java EE (JSF, Spring, Hibernate)
@@ -25,7 +25,7 @@
     - Git
     - SVN
 * Very strong communicator (speaker and blogger)
-* Very strong linux user (have setup linux VPS as secure servers)
+* Linux Server configuration (Nginx, Apache, Gunicorn, Supervisord, iptables, sendmail)
 * Good understanding of Cryptography and Security
 * Preferred development methodology: Agile/Scrum
 
