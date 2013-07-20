@@ -5,6 +5,8 @@
 * <caleb.madrigal@gmail.com>
 * 414-215-0003
 
+---
+
 ## Skills
 
 * Languages/Platforms/Technologies:
@@ -24,6 +26,8 @@
     - SVN
 * Methodology: Agile/Scrum
 * Very strong communicator (speaker and blogger)
+
+---
 
 ## Experience
 
@@ -74,7 +78,7 @@ work together.
 #### Software Engineer, *August 2006 - May 2008*
 
 * Developing an Enterprise Resource Planning (ERP) system.
-* Desktop front-­‐end to ERP in C#/.NET 3.0/XAML/WPF.
+* Desktop front-­‐end to ERP in C#/0/XAML/WPF.
 * Integrated Microsoft Office with ERP system.
 * Wrote socket-­‐level communication system for both the server-­‐side and front-­‐end of ERP.
 * Wrote web software for ERP system using Perl, Javascript, CSS, and HTML.
@@ -86,6 +90,8 @@ work together.
 
 * Wrote a program that controlled the magnetic front door lock, using MS Outlook calendar as a front end for scheduling.
 
+---
+
 ## Speaking
 
 ### O'Reilly Open Source Convention (OSCON) 2013
@@ -96,6 +102,7 @@ work together.
 #### Topic: Transparent HTTP Proxies
 * [Code used](https://github.com/calebmadrigal/PythonScripts/blob/master/networking/httpproxyserver.py)
 
+---
 
 ## Education
 
