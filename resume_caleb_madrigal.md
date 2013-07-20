@@ -103,7 +103,7 @@
 * [Presentation Notes](https://github.com/calebmadrigal/FourierTalkOSCON)
 
 ### Milwaukee Barcamp 2011
-#### Topic: Using Transparent HTTP Proxies for live web traffic manipulation
+#### Topic: Using Transparent HTTP Proxies for Live Web Traffic Manipulation
 * [Code used](https://github.com/calebmadrigal/PythonScripts/blob/master/networking/httpproxyserver.py)
 
 ---
