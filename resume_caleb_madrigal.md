@@ -72,7 +72,6 @@
 * Developed several APIs based on requirements which I gathered from multiple teams.
 * Developed company-wide Python coding standard and gave training presentations on Python.
 * Wrote a hardware emulator in Python for use in our labs.
-* Addressed customer questions about our software and documentation.
 * Wrote Software design documents which used UML diagrams to communicate software module design and interactions.
 * Authored the Software Requirements Document for one of the components for the NSS in IBM Rational Doors (requirements tracking software).
 * Wrote Test Cases, Test Procedures, and Test Applications (in C and Python) to verify requirements.
