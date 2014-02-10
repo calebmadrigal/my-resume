@@ -17,6 +17,7 @@
     - Java EE (GWT, JSF, Spring, Hibernate)
     - C (gcc, sockets, linux, makefile)
 * Databases:
+    - PostgreSQL
     - MySQL
     - MS SQL
     - IBM DB2
