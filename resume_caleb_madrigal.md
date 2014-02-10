@@ -10,11 +10,11 @@
 ## Skills
 
 * Languages/Platforms/Technologies:
-    - Hardcore Pythonista (Django, Flask, numpy, scipy, ipython, matplotlib, Gunicorn)
+    - Python (Django, Flask, numpy, scipy, ipython, matplotlib, Gunicorn)
+    - Javascript (AngularJS, Node.js, Underscore.js, jQuery, REST)
     - Objective-C (iOS, Cocoa)
-    - C# .NET (ASP.NET, MVC4, NHibernate Spring)
-    - Java EE (JSF, Spring, Hibernate)
-    - Javascript (AngularJS, jQuery, UnderscoreJS, KnockoutJS, REST)
+    - C# .NET (ASP.NET, MVC4, NHibernate, Spring.NET)
+    - Java EE (GWT, JSF, Spring, Hibernate)
     - C (gcc, sockets, linux, makefile)
 * Databases:
     - MySQL
