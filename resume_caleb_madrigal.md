@@ -45,12 +45,8 @@
 * *Technologies:* Node.js, Express.js, AngularJS, MongoDB, Java, SOAP, Oracle
 * I'm leading a small team to create a web portal for a legacy enterprise Java policy administration system.
 
-##### Client: Wipfli (Internal Development), 2012
-
-* *Technologies:* Objective-C
-* Wrote insurance risk analysis iPad app
-
 ##### Client: Hewins Financial, 2013-2014
+
 * *Technologies:* Java EE, Google Web Toolkit, MySQL, Linux, Python
 * Made an offline version by wrapping the server software in a VM, and wrote a protection layer around it with Python.
 
@@ -60,6 +56,11 @@
 * Wrote Medical scheduling web app
 * Wrote Medical scheduling iPad app
 * Helped maintain large enterprise API and web app.
+
+##### Client: Wipfli (Internal Development), 2012
+
+* *Technologies:* Objective-C
+* Wrote insurance risk analysis iPad app
 
 ##### Client: SoZo Group, Wipfli (Joint Venture), 2012
 
