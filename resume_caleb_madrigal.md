@@ -12,7 +12,7 @@
 
 ## Skills
 
-* Very strong communicator (speaker and writer)
+* Strong communicator (speaker and writer)
 * Agile/Scrum Practitioner
 * Languages/Platforms/Technologies:
     - Python (Django, Flask, NumPy, SciPy, IPython Notebook, Matplotlib, Gunicorn)
