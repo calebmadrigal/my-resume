@@ -1,17 +1,22 @@
-# Caleb Madrigal - Software Engineer
+# Caleb Madrigal
 
+* caleb.madrigal@gmail.com
+* 414-215-0003
+* Milwaukee, WI
 * <http://calebmadrigal.com>
 * <https://github.com/calebmadrigal>
-* <caleb.madrigal@gmail.com>
-* 414-215-0003
+* <https://twitter.com/caleb_madrigal>
+* <http://www.linkedin.com/pub/caleb-madrigal/40/489/2b8/>
 
 ---
 
 ## Skills
 
+* Very strong communicator (speaker and writer)
+* Agile/Scrum Practitioner
 * Languages/Platforms/Technologies:
-    - Python (Django, Flask, numpy, scipy, ipython, matplotlib, Gunicorn)
-    - Javascript (AngularJS, Node.js, Underscore.js, jQuery, REST)
+    - Python (Django, Flask, NumPy, SciPy, IPython Notebook, Matplotlib, Gunicorn)
+    - Javascript (AngularJS, Node.js, Express.js, Underscore.js, Lodash.js, Async.js, jQuery)
     - Objective-C (iOS, Cocoa)
     - C# .NET (ASP.NET, MVC4, NHibernate, Spring.NET)
     - Java EE (GWT, JSF, Spring, Hibernate)
@@ -25,10 +30,8 @@
 * Version Control:
     - Git
     - SVN
-* Very strong communicator (speaker and blogger)
 * Linux Server configuration (Nginx, Apache, Gunicorn, Supervisord, iptables, sendmail)
-* Good understanding of Cryptography and Security
-* Preferred development methodology: Agile/Scrum
+* Strong working knowledge of Cryptography and Security
 
 ---
 
@@ -37,30 +40,36 @@
 ### SpiderLogic
 #### Software Consultant, *March 2011 - Present*
 
+##### Client: Wisconsin Lawyers Mutual Insurance Company, 2013-2014
+
+* *Technologies:* Node.js, Express.js, AngularJS, MongoDB, Java, SOAP, Oracle
+* I'm leading a small team to create a web portal for a legacy enterprise Java policy administration system.
+
 ##### Client: Wipfli (Internal Development), 2012
 
 * *Technologies:* Objective-C
 * Wrote insurance risk analysis iPad app
 
-##### Client: MHD, 2012-2013
+##### Client: MyHealthDirect, 2012-2013
 
 * *Technologies:* C# .NET, ASP MVC4 .NET, Spring, NHibernate, MS SQL, Objective-C
 * Wrote Medical scheduling web app
 * Wrote Medical scheduling iPad app
 * Helped maintain large enterprise API and web app.
 
-##### Client: SoZo Group, Wipfli (Joint Venture)
+##### Client: ScenarioNow, 2011-2012, 2013, 2014
+
+* *Technologies:* Java EE, Google Web Toolkit, MySQL, Linux, Python
+* Wrote financial modeling software for financial advisors
+* Made an offline version by wrapping the server software in a VM, and wrote a protection layer around it with Python.
+
+##### Client: SoZo Group, Wipfli (Joint Venture), 2012
 
 * *Technologies:* Joomla CMS, PHP, Linux, Javascript, CSS
 * Created web informational portal to provide help to Chinese companies looking to move operations to the US
 * Website: <https://chinausportal.com/index.php/en/>
 
-##### Client: ScenarioNow, 2011-2012
-
-* *Technologies:* Java EE, Google Web Toolkit, MySQL, Linux
-* Wrote financial modeling software for financial advisors
-
-##### Client: CMIC, 2011
+##### Client: Church Mutual Insurance Company, 2011
 
 * *Technoligies:* Java EE, Spring, Hibernate, JSF, IBM DB2
 * Wrote Java EE application to manage actuarial statistics for Insurance Rating Software
@@ -95,6 +104,16 @@
 * Wrote a program that controlled the magnetic front door lock, using MS Outlook calendar as a front end for scheduling.
 
 ---
+
+## Side Projects
+
+### Home Security System
+
+* For fun and security, I built a home security and automation system
+* Hardware: RaspberryPi, hacked remote controlled outlet set, hacked magnetic sensor
+* Software: Python, Flask, jQuery Mobile
+
+
 
 ## Speaking
 
