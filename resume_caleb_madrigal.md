@@ -117,7 +117,9 @@
 * Hardware: RaspberryPi, hacked remote controlled outlet set, hacked magnetic sensor
 * Software: Python, Flask, jQuery Mobile
 
+### Other Side projects
 
+* See <http://calebmadrigal.com> for more side projects.
 
 ## Speaking
 
