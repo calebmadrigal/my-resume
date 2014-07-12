@@ -1,10 +1,10 @@
 Resume
 ======
 
-[My Resume in Markdown format](https://github.com/calebmadrigal/Resume/blob/master/resume_caleb_madrigal.md)
-[My Resume in PDF format](https://github.com/calebmadrigal/Resume/raw/master/resume_caleb_madrigal.pdf)
-[My Resume in Word format](https://github.com/calebmadrigal/Resume/raw/master/resume_caleb_madrigal.docx)
-[My Resume in HTML format](https://github.com/calebmadrigal/Resume/raw/master/resume_caleb_madrigal.html)
+* [My Resume in Markdown format](https://github.com/calebmadrigal/Resume/blob/master/resume_caleb_madrigal.md)
+* [My Resume in PDF format](https://github.com/calebmadrigal/Resume/raw/master/resume_caleb_madrigal.pdf)
+* [My Resume in Word format](https://github.com/calebmadrigal/Resume/raw/master/resume_caleb_madrigal.docx)
+* [My Resume in HTML format](https://github.com/calebmadrigal/Resume/raw/master/resume_caleb_madrigal.html)
 
 
 ### docverter.com conversion commands
