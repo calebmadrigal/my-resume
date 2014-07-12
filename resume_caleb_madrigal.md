@@ -13,8 +13,8 @@
 ## Skills
 
 * Strong communicator (speaker and writer)
-* Agile/Scrum Practitioner
-* Languages/Platforms/Technologies:
+* Agile/Scrum practitioner
+* Languages/Platforms:
     - Python (Django, Flask, NumPy, SciPy, IPython Notebook, Matplotlib, Gunicorn)
     - Javascript (AngularJS, Node.js, Express.js, Underscore.js, Lodash.js, Async.js, jQuery)
     - Objective-C (iOS, Cocoa)
