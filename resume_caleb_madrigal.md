@@ -50,6 +50,10 @@
 * *Technologies:* Objective-C
 * Wrote insurance risk analysis iPad app
 
+##### Client: Hewins Financial, 2013-2014
+* *Technologies:* Java EE, Google Web Toolkit, MySQL, Linux, Python
+* Made an offline version by wrapping the server software in a VM, and wrote a protection layer around it with Python.
+
 ##### Client: MyHealthDirect, 2012-2013
 
 * *Technologies:* C# .NET, ASP MVC4 .NET, Spring, NHibernate, MS SQL, Objective-C
@@ -57,17 +61,16 @@
 * Wrote Medical scheduling iPad app
 * Helped maintain large enterprise API and web app.
 
-##### Client: ScenarioNow, 2011-2012, 2013, 2014
-
-* *Technologies:* Java EE, Google Web Toolkit, MySQL, Linux, Python
-* Wrote financial modeling software for financial advisors
-* Made an offline version by wrapping the server software in a VM, and wrote a protection layer around it with Python.
-
 ##### Client: SoZo Group, Wipfli (Joint Venture), 2012
 
 * *Technologies:* Joomla CMS, PHP, Linux, Javascript, CSS
 * Created web informational portal to provide help to Chinese companies looking to move operations to the US
 * Website: <https://chinausportal.com/index.php/en/>
+
+##### Client: ScenarioNow, 2011-2012
+
+* *Technologies:* Java EE, Google Web Toolkit, MySQL, Linux
+* Wrote financial modeling software for financial advisors
 
 ##### Client: Church Mutual Insurance Company, 2011
 
