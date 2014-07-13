@@ -8,8 +8,6 @@
 * <https://twitter.com/caleb_madrigal>
 * <http://www.linkedin.com/pub/caleb-madrigal/40/489/2b8/>
 
----
-
 ## Skills
 
 * Strong communicator (speaker and writer)
@@ -32,8 +30,6 @@
     - SVN
 * Linux Server configuration (Nginx, Apache, Gunicorn, Supervisord, iptables, sendmail)
 * Strong working knowledge of Cryptography and Security
-
----
 
 ## Experience
 
@@ -107,8 +103,6 @@
 
 * Wrote a program that controlled the magnetic front door lock, using MS Outlook calendar as a front end for scheduling.
 
----
-
 ## Side Projects
 
 ### Home Security System
@@ -130,8 +124,6 @@
 ### Milwaukee Barcamp 2011
 #### Topic: Using Transparent HTTP Proxies for Live Web Traffic Manipulation
 * [Code used](https://github.com/calebmadrigal/PythonScripts/blob/master/networking/httpproxyserver.py)
-
----
 
 ## Education
 
