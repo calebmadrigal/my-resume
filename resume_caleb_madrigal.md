@@ -20,15 +20,25 @@
     - Java EE (GWT, JSF, Spring, Hibernate)
     - C (gcc, sockets, linux, makefile)
 * Databases:
-    - PostgreSQL
+    - MongoDB
     - MySQL
     - MS SQL
+    - PostgreSQL
     - IBM DB2
     - Sqlite
 * Version Control:
     - Git
     - SVN
-* Linux Server configuration (Nginx, Apache, Gunicorn, Supervisord, iptables, sendmail)
+* Other Tools:
+    - Docker
+    - Vagrant
+    - VirtualBox
+    - VMWare Fusion/Workstation
+    - Visual Studio
+    - IntelliJ
+    - PyCharm
+    - WebStorm
+* Linux Server configuration: Nginx, Apache, Gunicorn, Supervisord, Upstart, iptables, sendmail, cron
 * Strong working knowledge of Cryptography and Security
 
 ## Experience
@@ -39,11 +49,12 @@
 ##### Client: Wisconsin Lawyers Mutual Insurance Company, 2013-2014
 
 * *Technologies:* Node.js, Express.js, AngularJS, MongoDB, Java, SOAP, Oracle
-* I'm leading a small team to create a web portal for a legacy enterprise Java policy administration system.
+* I lead a small team to create a web portal for a legacy enterprise Java policy administration system.
 
 ##### Client: Hewins Financial, 2013-2014
 
 * *Technologies:* Java EE, Google Web Toolkit, MySQL, Linux, Python
+* Created a web app which enables financial advisors to rapidly model their clients' financial outlook and walk them through various scenarios.
 * Made an offline version by wrapping the server software in a VM, and wrote a protection layer around it with Python.
 
 ##### Client: MyHealthDirect, 2012-2013
@@ -71,7 +82,7 @@
 
 ##### Client: Church Mutual Insurance Company, 2011
 
-* *Technoligies:* Java EE, Spring, Hibernate, JSF, IBM DB2
+* *Technologies:* Java EE, Spring, Hibernate, JSF, IBM DB2
 * Wrote Java EE application to manage actuarial statistics for Insurance Rating Software
 
 
