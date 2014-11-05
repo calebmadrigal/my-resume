@@ -49,7 +49,7 @@
 ##### Client: Wisconsin Lawyers Mutual Insurance Company, 2013-2014
 
 * *Technologies:* Node.js, Express.js, AngularJS, MongoDB, Java, SOAP, Oracle
-* I lead a small team to create a web portal for a legacy enterprise Java policy administration system.
+* Lead a small team to create a web portal for a legacy enterprise Java policy administration system. This portal was implemented as a Single-page App backed by a RESTful API, which is backed by Node.js, Express.js, and MongoDB.
 
 ##### Client: Hewins Financial, 2013-2014
 
@@ -71,7 +71,7 @@
 
 ##### Client: SoZo Group, Wipfli (Joint Venture), 2012
 
-* *Technologies:* Joomla CMS, PHP, Linux, Javascript, CSS
+* *Technologies:* Javascript, HTML5, CSS3, Joomla CMS, PHP, Linux
 * Created web informational portal to provide help to Chinese companies looking to move operations to the US
 * Website: <https://chinausportal.com/index.php/en/>
 
