@@ -62,7 +62,8 @@
 * *Technologies:* C# .NET, ASP MVC4 .NET, Spring, NHibernate, MS SQL, Objective-C
 * Wrote Medical scheduling web app
 * Wrote Medical scheduling iPad app
-* Helped maintain large enterprise API and web app.
+* Wrote an ETL tool to transform client-provided data files into a format our DB could handle
+* Helped maintain large enterprise API and web app
 
 ##### Client: Wipfli (Internal Development), 2012
 
