@@ -6,22 +6,21 @@
 * <http://calebmadrigal.com>
 * <https://github.com/calebmadrigal>
 * <https://twitter.com/caleb_madrigal>
-* <http://www.linkedin.com/pub/caleb-madrigal/40/489/2b8/>
+* <https://www.linkedin.com/in/calebmadrigal>
 
 ## Skills
 
 * Strong communicator (speaker and writer)
-* Agile/Scrum practitioner
 * Languages/Platforms:
-    - Python (Django, Flask, NumPy, SciPy, IPython Notebook, Matplotlib, Gunicorn)
-    - Javascript (AngularJS, Node.js, Express.js, Underscore.js, Lodash.js, Async.js, jQuery)
+    - Python (Flask, Django, IPython Notebook/Jypyter, NumPy, SciPy, Matplotlib, Gunicorn)
+    - Javascript (Node.js, React.js, AngularJS, Express.js, Underscore.js, Lodash.js, Async.js, jQuery)
     - Objective-C (iOS, Cocoa)
     - C# .NET (ASP.NET, MVC4, NHibernate, Spring.NET)
     - Java EE (GWT, JSF, Spring, Hibernate)
     - C (gcc, sockets, linux, makefile)
 * Databases:
-    - MongoDB
     - MySQL
+    - MongoDB
     - MS SQL
     - PostgreSQL
     - IBM DB2
@@ -38,8 +37,11 @@
     - IntelliJ
     - PyCharm
     - WebStorm
+* Strong algorithms and mathematics knowledge.
+* Big proponent of functional programming.
 * Linux Server configuration: Nginx, Apache, Gunicorn, Supervisord, Upstart, iptables, sendmail, cron
 * Strong working knowledge of Cryptography and Security
+* Agile/Scrum practitioner
 
 ## Experience
 
@@ -145,5 +147,4 @@
 * ACM President of WKU local chapter (2007-2008)
 * Future Leader Award in Computer Science (2008)
 * President's Scholar at WKU (2007-2008)
-
 
