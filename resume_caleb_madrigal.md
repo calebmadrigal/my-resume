@@ -46,12 +46,12 @@
 ### SpiderLogic
 #### Software Consultant, *March 2011 - Present*
 
-##### Client: Wisconsin Lawyers Mutual Insurance Company, 2013-2014
+##### Client: Wisconsin Lawyers Mutual Insurance Company, 2013-2015
 
 * *Technologies:* Node.js, Express.js, AngularJS, MongoDB, Java, SOAP, Oracle
 * Lead a small team to create a web portal for a legacy enterprise Java policy administration system. This portal was implemented as a Single-page App backed by a RESTful API, which is backed by Node.js, Express.js, and MongoDB.
 
-##### Client: Hewins Financial, 2013-2014
+##### Client: Hewins Financial, 2013-2015
 
 * *Technologies:* Java EE, Google Web Toolkit, MySQL, Linux, Python
 * Created a web app which enables financial advisors to rapidly model their clients' financial outlook and walk them through various scenarios.
