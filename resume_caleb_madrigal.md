@@ -22,8 +22,8 @@
 ## Technologies and Tools
 
 * Languages/Platforms:
-    - Python (Flask, Django, IPython Notebook/Jupyter, NumPy/SciPy/Matplotlib, Gunicorn)
-    - Javascript (Node.js, React.js, AngularJS, d3.js, Express.js, Underscore.js, Lodash.js, Async.js, jQuery)
+    - Python (Flask, Django, IPython Notebook/Jupyter, NumPy/SciPy/Matplotlib, Asyncio, Gunicorn)
+    - Javascript (Node.js, React.js, AngularJS, d3.js, Express.js, Underscore.js, Lodash.js, Async.js, jQuery, q)
     - Web (HTML5, CSS3, Bootstrap/Responsive Design, Javascript - see above)
     - Objective-C (iOS, Cocoa)
     - C# .NET (ASP.NET, Web API, MVC4, NHibernate, Spring.NET)
@@ -56,8 +56,7 @@
 ##### Client: MyHealthDirect, 2012-2013
 
 * *Technologies:* C# .NET, ASP MVC4 .NET, Spring, NHibernate, MS SQL, Objective-C
-* Wrote Medical scheduling web app
-* Wrote Medical scheduling iPad app
+* Wrote Medical scheduling web app and iPad app
 * Wrote an ETL tool to transform client-provided data files into a format our DB could handle
 * Helped maintain large enterprise API and web app
 
@@ -81,7 +80,6 @@
 
 * *Technologies:* Java EE, Spring, Hibernate, JSF, IBM DB2
 * Wrote Java EE application to manage actuarial statistics for Insurance Rating Software.
-
 
 ### Astronautics Corporation of America
 #### Software Engineer, *June 2008 - March 2011*
@@ -148,4 +146,3 @@
 * Coursera Machine Learning class with Angrew Ng - <https://www.coursera.org/course/ml> (2013)
 * Udacity Artificial Intelligence for Robotics (2012)
 * Stanford Artificial Intelligence class with Sebastian Thurn and Peter Norvig (2011)
-
