@@ -10,38 +10,29 @@
 
 ## Skills
 
-* Strong communicator (speaker and writer)
-* Languages/Platforms:
-    - Python (Flask, Django, IPython Notebook/Jypyter, NumPy, SciPy, Matplotlib, Gunicorn)
-    - Javascript (Node.js, React.js, AngularJS, Express.js, Underscore.js, Lodash.js, Async.js, jQuery)
-    - Objective-C (iOS, Cocoa)
-    - C# .NET (ASP.NET, MVC4, NHibernate, Spring.NET)
-    - Java EE (GWT, JSF, Spring, Hibernate)
-    - C (gcc, sockets, linux, makefile)
-* Databases:
-    - MySQL
-    - MongoDB
-    - MS SQL
-    - PostgreSQL
-    - IBM DB2
-    - Sqlite
-* Version Control:
-    - Git
-    - SVN
-* Other Tools:
-    - Docker
-    - Vagrant
-    - VirtualBox
-    - VMWare Fusion/Workstation
-    - Visual Studio
-    - IntelliJ
-    - PyCharm
-    - WebStorm
+* Strong communicator (speaker and writer).
 * Strong algorithms and mathematics knowledge.
-* Big proponent of functional programming.
+* Functional programming and Object-oriented programming.
+* Front-end design (Responsive Design, SVG, Photoshop).
+* Data analytics and visualization (IPython Notebook/Jupyter/NumPy/SciPy/Matplotlib, d3).
+* Strong working knowledge of Cryptography and Security.
+* Agile/Scrum practitioner.
+* Team leadership experience.
+
+## Technologies and Tools
+
+* Languages/Platforms:
+    - Python (Flask, Django, IPython Notebook/Jupyter, NumPy/SciPy/Matplotlib, Gunicorn)
+    - Javascript (Node.js, React.js, AngularJS, d3.js, Express.js, Underscore.js, Lodash.js, Async.js, jQuery)
+    - Web (HTML5, CSS3, Bootstrap/Responsive Design, Javascript - see above)
+    - Objective-C (iOS, Cocoa)
+    - C# .NET (ASP.NET, Web API, MVC4, NHibernate, Spring.NET)
+    - Java EE (GWT, JSF, Spring, Hibernate)
+    - C (Gcc, Sockets, Linux, Makefile)
+* Databases: MySQL, MongoDB, MS SQL, PostgreSQL, IBM DB2, Sqlite,
+* Version Control: Git, SVN
+* Other Tools: Docker, Vagrant, VirtualBox, VMWare Fusion/Workstation, Visual Studio, IntelliJ, PyCharm, WebStorm, Photoshop, iDraw
 * Linux Server configuration: Nginx, Apache, Gunicorn, Supervisord, Upstart, iptables, sendmail, cron
-* Strong working knowledge of Cryptography and Security
-* Agile/Scrum practitioner
 
 ## Experience
 
@@ -50,14 +41,17 @@
 
 ##### Client: Wisconsin Lawyers Mutual Insurance Company, 2013-2015
 
-* *Technologies:* Node.js, Express.js, AngularJS, MongoDB, Java, SOAP, Oracle
-* Lead a small team to create a web portal for a legacy enterprise Java policy administration system. This portal was implemented as a Single-page App backed by a RESTful API, which is backed by Node.js, Express.js, and MongoDB.
+* *Technologies:* Node.js, Express.js, AngularJS, MongoDB, Java, SOAP, Oracle, Linux
+* Lead a small team to create a web portal for a legacy enterprise Java policy administration system. This allows clients to pay premiums and renew their policies via the web (previously a paper transaction).
+* The front-end was implemented as a Single-Page App (with AngularJS, and Bootstrap).
+* Backing the front-end was a "smart proxy" (written in Node.js, Express.js, and MongoDB) which presented the front-end with a nice RESTful API, and which abstracted away the dirty details of making all kinds of complex SOAP calls to the legacy Java system.
+* I built the smart proxy into the design not only to make the front-end simpler, but also because the client was considering moving away from their legacy Java policy administration system, and the smart proxy would allow them to more easily replace it with minimal impact to the web portal codebase.
 
 ##### Client: Hewins Financial, 2013-2015
 
 * *Technologies:* Java EE, Google Web Toolkit, MySQL, Linux, Python
-* Created a web app which enables financial advisors to rapidly model their clients' financial outlook and walk them through various scenarios.
-* Made an offline version by wrapping the server software in a VM, and wrote a protection layer around it with Python.
+* Created a web app which enables financial advisors to rapidly model their clients' financial outlook and walk them through various financial scenarios.
+* Created an offline version of the app by wrapping the server software in a Virtual Machine (and wrote a protection layer around it with Python to prevent employees from running off with the software).
 
 ##### Client: MyHealthDirect, 2012-2013
 
@@ -70,23 +64,23 @@
 ##### Client: Wipfli (Internal Development), 2012
 
 * *Technologies:* Objective-C
-* Wrote insurance risk analysis iPad app
+* Wrote insurance risk analysis iPad app which allows risk prevention field workers to survey insured properties, take pictures and record notes of potential liabilities, and submit their reports to the back office.
 
 ##### Client: SoZo Group, Wipfli (Joint Venture), 2012
 
 * *Technologies:* Javascript, HTML5, CSS3, Joomla CMS, PHP, Linux
-* Created web informational portal to provide help to Chinese companies looking to move operations to the US
+* Created web informational portal to provide help to Chinese companies looking to move operations to the US.
 * Website: <https://chinausportal.com/index.php/en/>
 
 ##### Client: ScenarioNow, 2011-2012
 
 * *Technologies:* Java EE, Google Web Toolkit, MySQL, Linux
-* Wrote financial modeling software for financial advisors
+* Wrote financial modeling software for financial advisors.
 
 ##### Client: Church Mutual Insurance Company, 2011
 
 * *Technologies:* Java EE, Spring, Hibernate, JSF, IBM DB2
-* Wrote Java EE application to manage actuarial statistics for Insurance Rating Software
+* Wrote Java EE application to manage actuarial statistics for Insurance Rating Software.
 
 
 ### Astronautics Corporation of America
@@ -107,7 +101,7 @@
 * Developing an Enterprise Resource Planning (ERP) system.
 * Desktop front-end to ERP in C# .NET/XAML/WPF
 * Integrated Microsoft Office with ERP system.
-* Wrote socket-level communication system for both the server-side and front-end of ERP.
+* Wrote socket-level communication system for both the server-side and front-end of ERP to allow high-throughput messaging.
 * Wrote web software for ERP system using Perl, Javascript, CSS, and HTML.
 * Developed access control software that uses Radio Frequency Identification (RFID).
 * Certified RFID specialist at Hitcents.
@@ -121,13 +115,13 @@
 
 ### Home Security System
 
-* For fun and security, I built a home security and automation system
+* For fun and security, I built a home security and automation system.
 * Hardware: RaspberryPi, hacked remote controlled outlet set, hacked magnetic sensor
-* Software: Python, Flask, jQuery Mobile
+* Software: Python, Flask, jQuery Mobile, ZeroMQ
 
 ### Other Side projects
 
-* See <http://calebmadrigal.com> for more side projects.
+* See <http://calebmadrigal.com> and <http://github.com/calebmadrigal> for my most recent side projects.
 
 ## Speaking
 
@@ -147,4 +141,11 @@
 * ACM President of WKU local chapter (2007-2008)
 * Future Leader Award in Computer Science (2008)
 * President's Scholar at WKU (2007-2008)
+
+### Other Classes
+
+* DevelopMentor Modern ASP.NET (2014)
+* Coursera Machine Learning class with Angrew Ng - <https://www.coursera.org/course/ml> (2013)
+* Udacity Artificial Intelligence for Robotics (2012)
+* Stanford Artificial Intelligence class with Sebastian Thurn and Peter Norvig (2011)
 
