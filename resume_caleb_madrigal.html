@@ -56,18 +56,20 @@
 <li>The front-end was implemented as a Single-Page App (with AngularJS, and Bootstrap).</li>
 <li>Backing the front-end was a &quot;smart proxy&quot; (written in Node.js, Express.js, and MongoDB) which presented the front-end with a nice RESTful API, and which abstracted away the dirty details of making all kinds of complex SOAP calls to the legacy Java system.</li>
 <li>I built the smart proxy into the design not only to make the front-end simpler, but also because the client was considering moving away from their legacy Java policy administration system, and the smart proxy would allow them to more easily replace it with minimal impact to the web portal codebase.</li>
+<li>Wrote integration tests in Python which validated that the legacy Java service layer was behaving as expected.</li>
 </ul>
 <h5 id="client-hewins-financial-2013-2015">Client: Hewins Financial, 2013-2015</h5>
 <ul>
-<li><em>Technologies:</em> Java EE, Google Web Toolkit, MySQL, Linux, Python</li>
+<li><em>Technologies:</em> Java EE, Google Web Toolkit, MySQL, Linux, Python, ZeroMQ</li>
 <li>Created a web app which enables financial advisors to rapidly model their clients' financial outlook and walk them through various financial scenarios.</li>
-<li>Created an offline version of the app by wrapping the server software in a Virtual Machine (and wrote a protection layer around it with Python to prevent employees from running off with the software).</li>
+<li>Created an offline version of the app by wrapping the server software in a Virtual Machine</li>
+<li>For the offline version of the app, I wrote a protection layer in Python (web app and daemon) which required users to log in, and periodically would check with the server that they still are authorized to use the app. If a user was no longer authorized (or the protection layer was unable to contact the validation server in a given time period), then the protection layer would disable the app. This protection layer used ZeroMQ to communicate between its subprocesses.</li>
 </ul>
 <h5 id="client-myhealthdirect-2012-2013">Client: MyHealthDirect, 2012-2013</h5>
 <ul>
 <li><em>Technologies:</em> C# .NET, ASP MVC4 .NET, Spring, NHibernate, MS SQL, Objective-C</li>
 <li>Wrote Medical scheduling web app and iPad app</li>
-<li>Wrote an ETL tool to transform client-provided data files into a format our DB could handle</li>
+<li>Use Python to write an ETL tool to transform client-provided data files into a format our database could handle. It allowed us to write mapping files which specified how to map columns and transform data.</li>
 <li>Helped maintain large enterprise API and web app</li>
 </ul>
 <h5 id="client-wipfli-internal-development-2012">Client: Wipfli (Internal Development), 2012</h5>
@@ -97,7 +99,8 @@
 <li>Wrote software in the C programming language for the Airbus A400M Network Server System (NSS).</li>
 <li>Developed several APIs based on requirements which I gathered from multiple teams.</li>
 <li>Developed company-wide Python coding standard and gave training presentations on Python.</li>
-<li>Wrote a hardware emulator in Python for use in our labs.</li>
+<li>Wrote a hardware emulator in Python for use in our labs. It communicated via RS-232, and allowed us to mock out this particular hardware device. It also allowed us to set various states on this hardware device to ensure other systems behaved correctly.</li>
+<li>Wrote various integration tests in Python.</li>
 <li>Wrote Software design documents which used UML diagrams to communicate software module design and interactions.</li>
 <li>Authored the Software Requirements Document for one of the components for the NSS in IBM Rational Doors (requirements tracking software).</li>
 <li>Wrote Test Cases, Test Procedures, and Test Applications (in C and Python) to verify requirements.</li>
@@ -109,7 +112,7 @@
 <li>Developing an Enterprise Resource Planning (ERP) system.</li>
 <li>Desktop front-end to ERP in C# .NET/XAML/WPF</li>
 <li>Integrated Microsoft Office with ERP system.</li>
-<li>Wrote socket-level communication system for both the server-side and front-end of ERP to allow high-throughput messaging.</li>
+<li>Used Python to write socket-level communication system for both the server-side and front-end of ERP to provide push notifications to our desktop client (as well as receive messages pushed to the server from the client).</li>
 <li>Wrote web software for ERP system using Perl, Javascript, CSS, and HTML.</li>
 <li>Developed access control software that uses Radio Frequency Identification (RFID).</li>
 <li>Certified RFID specialist at Hitcents.</li>
