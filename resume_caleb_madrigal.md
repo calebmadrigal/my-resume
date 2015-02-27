@@ -22,7 +22,7 @@
 ## Technologies and Tools
 
 * Languages/Platforms:
-    - Python (Flask, Django, IPython Notebook/Jupyter, NumPy/SciPy/Matplotlib, Asyncio, Gunicorn)
+    - Python (Flask, Django, IPython Notebook/Jupyter, NumPy/SciPy/Matplotlib/Pandas, Asyncio, Gunicorn)
     - Javascript (Node.js, React.js, AngularJS, d3.js, Express.js, Underscore.js, Lodash.js, Async.js, jQuery, q)
     - Web (HTML5, CSS3, Bootstrap/Responsive Design, Javascript - see above)
     - Objective-C (iOS, Cocoa)
