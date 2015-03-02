@@ -27,6 +27,7 @@
     - Web (HTML5, CSS3, Bootstrap/Responsive Design, Javascript - see above)
     - Objective-C (iOS, Cocoa)
     - C# .NET (ASP.NET, Web API, MVC4, NHibernate, Spring.NET)
+    - Clojure, Scheme, Lisp
     - Java EE (GWT, JSF, Spring, Hibernate)
     - C (Gcc, Sockets, Linux, Makefile)
 * Databases: MySQL, MongoDB, MS SQL, PostgreSQL, IBM DB2, Sqlite,
