@@ -191,6 +191,10 @@ On a personal note, I try to be humble and kind to everyone. I think I'm a prett
 * Hypervault app presented on: <https://hypervault.github.io/>
 * Tunneling topic notes: <http://calebmadrigal.com/dns-tunneling-with-iodine/>
 
+### O'Reilly Open Source Convention (OSCON) 2015
+#### Topic: Building a modern UI for programmers
+* How to quickly build a descent UI if you're not a designer
+
 ### O'Reilly Open Source Convention (OSCON) 2013
 #### Topic: Sound Analysis with the Fourier Transform and Python
 * Presentation Notes/Code: <https://github.com/calebmadrigal/FourierTalkOSCON>
