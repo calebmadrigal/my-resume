@@ -12,71 +12,71 @@ I specialize in Cybersecurity, Machine Learning, and building software.
 <span style="color: #FF1B84; font-size: 2em">Experience</span>
 
 ### Mad Consulting
-* **ROLE:** Co-Founder, *January 2020 - Present*
+* *ROLE:* Co-Founder, *January 2020 - Present*
 * *Technologies:* Python, React, Tensorflow, Keras, Jupyter, Spark
 * Various projects for clients.
 
 ### Mandiant/FireEye
-* **ROLE:** Senior Software Engineer, *April 2015 - January 2020*
+* *ROLE:* Senior Software Engineer, *April 2015 - January 2020*
 * *Technologies:* Python, C, ctypes, redis, Node.js, Mac, Linux, Windows
 * Wrote host-side (agent) and server-side software for Incident Response investigations.
 * Software automates various Incident Response scans, and provides consultants with powerful investigative capabilities.
 
 ### SpiderLogic
-* **ROLE:** Software Consultant, *March 2011 - April 2015*
+* *ROLE:* Software Consultant, *March 2011 - April 2015*
 * *Technologies:* Node.js, Java, .NET, Objective-C, Javascript
 * *Industries:* Financial planning, insurance, healthcare
 * Various projects for clients.
 
 ### Astronautics Corporation of America
-* **ROLE:** Software Engineer, *June 2008 - March 2011*
+* *ROLE:* Software Engineer, *June 2008 - March 2011*
 * Wrote software in the C programming language for the Airbus A400M Network Server System (NSS).
 
 ### Hitcents
-* **ROLE:** Software Engineer, *August 2006 - May 2008*
+* *ROLE:* Software Engineer, *August 2006 - May 2008*
 * Developing an Enterprise Resource Planning (ERP) system.
 
 ### Teksouth
-* **ROLE:** Programming Summer Intern, *May 2005 - August 2005*
+* *ROLE:* Programming Summer Intern, *May 2005 - August 2005*
 
 <span style="color: #FF1B84; font-size: 2em">Speaking</span>
 
 ### DEF CON 2017
-* Topic: Controlling IoT devices with crafted radio signals
+* *Topic:* Controlling IoT devices with crafted radio signals
 * Presentation: <https://www.youtube.com/watch?v=qhuhJ9Oe9vA>
 
 ### THOTCON 2018
-* Topic: Inferring wireless camera motion detection without being connected and other 802.11 IoT hacks
+* *Topic:* Inferring wireless camera motion detection without being connected and other 802.11 IoT hacks
 * Presentation related software: <https://github.com/calebmadrigal/trackerjacker>
 
 ### DEEPSEC 2018 (in Vienna)
-* Topic: Inferring wireless camera motion detection without being connected and other 802.11 IoT hacks
+* *Topic:* Inferring wireless camera motion detection without being connected and other 802.11 IoT hacks
 * Presentation related software: <https://github.com/calebmadrigal/trackerjacker>
 
 ### THOTCON 2017
-* Topic: Intercepting, modifying, and generating wireless signals with SDR
+* *Topic:* Intercepting, modifying, and generating wireless signals with SDR
 
 ### Cyphercon 2017
-* Topic: Tracking/monitoring WiFi devices without being connected to any network
+* *Topic:* Tracking/monitoring WiFi devices without being connected to any network
 
 ### Cyphercon 2017
-* Topic: Tracking/monitoring WiFi devices without being connected to any network
+* *Topic:* Tracking/monitoring WiFi devices without being connected to any network
 
 ### Cyphercon 2016
-* Topic: 2 mini-talks: Hypervault and Tunneling
+* *Topic:* 2 mini-talks: Hypervault and Tunneling
 * Hypervault app presented on: <https://hypervault.github.io/>
 * Tunneling topic notes: <http://calebmadrigal.com/dns-tunneling-with-iodine/>
 
 ### O'Reilly Open Source Convention (OSCON) 2015
-* Topic: Building a modern UI for programmers
+* *Topic:* Building a modern UI for programmers
 * How to quickly build a descent UI if you're not a designer
 
 ### O'Reilly Open Source Convention (OSCON) 2013
-* Topic: Sound Analysis with the Fourier Transform and Python
+* *Topic:* Sound Analysis with the Fourier Transform and Python
 * Presentation Notes/Code: <https://github.com/calebmadrigal/FourierTalkOSCON>
 
 ### Milwaukee Barcamp 2011
-* Topic: Using Transparent HTTP Proxies for Live Web Traffic Manipulation
+* *Topic:* Using Transparent HTTP Proxies for Live Web Traffic Manipulation
 * Code used: <https://github.com/calebmadrigal/PythonScripts/blob/master/networking/httpproxyserver.py>
 
 <span style="color: #FF1B84; font-size: 2em">Side Projects/Research</span>
