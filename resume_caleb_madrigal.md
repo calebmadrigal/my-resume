@@ -1,6 +1,6 @@
 <span style="color: #FF1B84; font-size: 3em">Caleb Madrigal</span>
 
-I specialize in Cybersecurity, Machine Learning, and building software.
+I help pull the signal out of the noise. With Machine Learning, there's a lot of noise - noisy data (which needs to be cleaned and transformed), noisy processes (e.g. what model version is running in production? What data was that model trained on?). I can help add structure to such environments (such as via ML Pipelines). I also love math, and can help develop both Machine Learning Models as well as other sorts of computational models.
 
 * caleb.madrigal@gmail.com
 * 414-215-0003
@@ -14,7 +14,7 @@ I specialize in Cybersecurity, Machine Learning, and building software.
 ### Mad Consulting
 * *ROLE:* Co-Founder, *January 2020 - Present*
 * *Technologies:* Python, React, Tensorflow, Keras, Jupyter, Spark
-* Various projects for clients.
+* Data Engineering infractucture (ETL pipelines, transformations, model development, performance tracking, etc).
 
 ### Mandiant/FireEye
 * *ROLE:* Senior Software Engineer, *April 2015 - January 2020*
@@ -102,11 +102,6 @@ I specialize in Cybersecurity, Machine Learning, and building software.
 * <https://github.com/calebmadrigal/radio-hacking-scripts>
 * Various scripts for capturing and signals with SDR.
 
-### Network hacking scripts
-
-* <https://github.com/calebmadrigal/network-hacking-scripts>
-* Various scripts for performing surveilling and attacking LANs.
-
 ### Vanguard investment analysis
 
 * <https://github.com/calebmadrigal/investment-analysis>
@@ -121,6 +116,6 @@ I specialize in Cybersecurity, Machine Learning, and building software.
 
 <span style="color: #FF1B84; font-size: 2em">Education</span>
 
-* Life
 * Bachelor's degree in Computer Science - Western Kentucky University
+* Varius post-graduate studies in ML and Math.
 
