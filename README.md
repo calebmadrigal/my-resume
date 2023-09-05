@@ -7,7 +7,14 @@ Resume
 * [My Resume in HTML format](https://github.com/calebmadrigal/Resume/raw/master/resume_caleb_madrigal.html)
 
 
-### docverter.com conversion commands
+### 2023 Updates
+
+Convert
+
+    pandoc -f markdown-smart -o resume_caleb_madrigal.docx resume_caleb_madrigal.md
+    pandoc -f markdown-smart -o resume_caleb_madrigal.pdf resume_caleb_madrigal.md
+
+### (OLD) docverter.com conversion commands
 
 I'm now using [Pete Keen's](https://www.petekeen.net) great [document conversion service](http://www.docverter.com) to convert my resume from Markdown to PDF, HTML, and DOCX. Here are the commands for each format:
 
@@ -24,7 +31,7 @@ To convert to HTML:
     curl http://c.docverter.com/convert -F "from=markdown" -F "to=html" -F "input_files[]=@resume_caleb_madrigal.md" --output resume_caleb_madrigal.html
 
 
-### pandoc conversion commands:
+### (OLD) pandoc conversion commands:
 
 And here are the commands for using pandoc:
 
